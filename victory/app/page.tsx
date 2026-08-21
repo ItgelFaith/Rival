@@ -1,10 +1,10 @@
 import Image from "next/image";
-import Head from "@/components/Head";
+import Body from "@/components/Body";
+import Banners from "@/components/Banners";
 export default function Home() {
   return (
     <div>
-  <Head></Head>
+      
     </div>
   )
-  
 }
